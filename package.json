@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "fund": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.14.60"
+  }
+}

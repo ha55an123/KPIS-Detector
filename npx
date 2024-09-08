@@ -1,0 +1,2 @@
+npx create-react-app production-data-app
+npm run start
